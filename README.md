@@ -9,6 +9,13 @@ A committed and technically oriented **`BSc Computer Science student`** (1st Exp
 
 </p>
 
+<p align="center">
+  <a href="https://github.com/SalonTamang?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SalonTamang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/SalonTamang?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SalonTamang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
 <!-- Social icons section -->
 <p align="center">
   <h3>🌍 Connect with me:</h3>
