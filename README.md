@@ -10,7 +10,7 @@ A committed and technically oriented **`BSc Computer Science student`** (1st Exp
 </p>
 
 <p align="center">
-   <img src=https://komarev.com/ghpvc/?username=salontamang alt='salon tamang'/>
+   <img src='https://komarev.com/ghpvc/?username=salontamang&style=for-the-badge&color=blueviolet' alt='salon tamang'/>
   <a href="https://github.com/SalonTamang?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SalonTamang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/SalonTamang?tab=followers">
