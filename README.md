@@ -1,4 +1,21 @@
 <p align="center">
+  <svg fill="none" viewBox="0 0 400 300" width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @media (prefers-color-scheme: dark) {
+          img {
+            filter: invert(1);
+            background: none;
+          }
+        }
+      </style>
+      <div align="center">
+        <img width="256" src="data:image/png;base64,omitted+for+brevity==" alt="bic"/>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
   <a href="https://github.com/SalonTamang"><img alt='Salon Ghalan Tamang' src='https://see.fontimg.com/api/renderfont4/gx824/eyJyIjoiZnMiLCJoIjo0MywidyI6MTI1MCwiZnMiOjM0LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAzMDMwMyIsInQiOjF9/U2Fsb24gR2hhbGFuIFRhbWFuZw/rich-the-barber-personal-use.png'></a>
 </p>
 
