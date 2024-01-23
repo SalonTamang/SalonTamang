@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SalonTamang"><img alt='Salon Ghalan Tamang' src='https://see.fontimg.com/api/renderfont4/gx824/eyJyIjoiZnMiLCJoIjo0MywidyI6MTI1MCwiZnMiOjM0LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAzMDMwMyIsInQiOjF9/U2Fsb24gR2hhbGFuIFRhbWFuZw/rich-the-barber-personal-use.png#gh-dark-mode-only'></a>
+  <a href="https://github.com/SalonTamang"><img alt='Salon Ghalan Tamang' src='salon.svg'></a>
 </p>
 
 <p align='center'>
