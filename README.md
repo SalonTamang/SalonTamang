@@ -20,11 +20,11 @@ A committed and technically oriented **`BSc Computer Science student`** (1st Exp
 <!-- Social icons section -->
 <p align="center">
   <h3>🌍 Connect with me:</h3>
-  <a href="https://instagram.com/tmgsalon" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="tmgsalon" width="32px" /></a>
+  <a href="https://instagram.com/tmgsalon" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" alt="tmgsalon" width="37px" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/tmgsalon/" target="blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/tmgsalon/" target="blank"><img width="37px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/tmg_salon" target="blank"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/tmg_salon" target="blank"><img width="37px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
