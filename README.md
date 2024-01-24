@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=800&size=25&duration=4700&pause=1000&color=F70E00&center=true&vCenter=true&random=false&width=435&lines=Product+Designer;Software+Engineer;Full+Stack+Developer;Network+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=800&size=25&duration=4700&pause=1000&color=F70E00&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Data+Analyst;Full+Stack+Developer;5+Years+Of+Coding+Experience;" alt="Typing SVG" />
   
 A committed and technically oriented **`BSc Computer Science student`** (1st Expected) at Middlesex University with valuable project-based experience, who can efficiently use available resources to complete assigned tasks. Having experience leading projects and managing technical initiatives, ensuring a methodical and comprehensive approach to completion. 
 
