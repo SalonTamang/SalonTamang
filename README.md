@@ -50,7 +50,7 @@ A committed and technically oriented **`First Class Honours BSc Computer Science
 </details>
 
 
-<details open>
+<!-- <details open>
   <summary><h3>📊 Stats and Activtiy</h3></summary>
 
   <h3>🔥 Streak Stats</h3>  
@@ -69,7 +69,7 @@ A committed and technically oriented **`First Class Honours BSc Computer Science
 
   
   
-</details>
+</details> -->
 
 
 
